@@ -1,0 +1,6 @@
+[submodule "TrackMeServer"]
+	path = TrackMeServer
+	url = https://github.com/Debugger3000/TrackMeServer
+[submodule "TrackMeClient"]
+	path = TrackMeClient
+	url = https://github.com/Debugger3000/TrackMeClient
